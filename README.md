@@ -10,7 +10,7 @@ I'm Thibaut, a young man passionate about the realms of data, AI, and emerging t
 
 ## My Projects
 
-### Ongoing Projec: [CVeasy]
+### Ongoing Projec: [CVeasy](https://github.com/Th-Denis/cveasy)
 - A webapp combining the power of computer vision and Ai to help everyone edit photos and videos.
 - This will end your suffering from blurring a face frame by frame.
 - What about adding some depth to your images thanks to inpainting and parallax ?
